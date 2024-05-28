@@ -4,6 +4,7 @@
 - Microcontroller is send to sleep mode if 60s pass without button press
 - Use interrupts for detecting button press
 - You may use DMA with timer trigger to read ADCs
+### Functionality
 | Button Label          |Function                                         |
 | ----------------------|-------------------------------------------------|
 | SW0 press             | Read POT1 and POT2 and the display values on LCD|
