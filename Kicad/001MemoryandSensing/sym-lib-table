@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LIS2DH12TR")(type "KiCad")(uri "F:/Kicad/MyLib/symbol/LIS2DH12TR.kicad_sym")(options "")(descr ""))
+  (lib (name "MKDV1GCL-ABA")(type "KiCad")(uri "F:/Kicad/MyLib/symbol/MKDV1GCL-ABA.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q128JVSIQTR")(type "KiCad")(uri "F:/Kicad/MyLib/symbol/W25Q128JVSIQTR.kicad_sym")(options "")(descr ""))
+  (lib (name "MICROXNJ")(type "KiCad")(uri "F:/Kicad/MyLib/symbol/MICROXNJ.kicad_sym")(options "")(descr ""))
+  (lib (name "MICRO_180°JB")(type "KiCad")(uri "F:/Kicad/MyLib/symbol/MICRO_180°JB.kicad_sym")(options "")(descr ""))
+)
